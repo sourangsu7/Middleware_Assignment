@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Middleware_Assignment/1.0.0": {
+        "runtime": {
+          "Middleware_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Middleware_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
